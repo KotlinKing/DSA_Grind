@@ -9,7 +9,11 @@ public class MissingNumberInArray {
         
         int arr [] ={1,2,3,4,5,7};
         int n =  arr.length + 1; 
+        
+        //finding sum of numbers
         int sum = (n * (n+1))/2; 
+        
+        //substracting numbers from sum
         for(int i =0 ; i <arr.length; i ++){
             sum = sum - arr[i];
         }
