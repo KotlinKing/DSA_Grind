@@ -13,7 +13,7 @@ public class MissingNumberInArray {
         //finding sum of numbers
         int sum = (n * (n+1))/2; 
         
-        //substracting numbers from sum
+        //subtracting numbers from sum
         for(int i =0 ; i <arr.length; i ++){
             sum = sum - arr[i];
         }
