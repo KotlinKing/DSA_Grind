@@ -4,6 +4,7 @@ DSA Grind
 # Basics of DSA 
 ## Mathematics 
 * [1. Count Number of Digits](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/CountDigits.java)
+* [2. Program to find a palindrome number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/PalindromeNumber.java)
 
 
 ## List of Programs:
