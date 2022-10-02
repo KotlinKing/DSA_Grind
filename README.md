@@ -1,8 +1,12 @@
 # DSA_Grind
 DSA Grind
 
-## List of Programs:
+# Basics of DSA 
+## Mathematics 
+* [1. Count Number of Digits](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/CountDigits.java)
 
+
+## List of Programs:
 ### Arrays 
 
 * [1. Find a missing number in an array.](https://github.com/KotlinKing/DSA_Grind/blob/main/MissingNumberInArray.java)
