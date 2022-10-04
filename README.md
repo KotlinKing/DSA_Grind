@@ -7,6 +7,7 @@ DSA Grind
 * [2. Program to find a palindrome number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/PalindromeNumber.java)
 * [3. Program to find factorial of a number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumberFactorial.java)
 * [4. Program to find trailing zeros in factorial of a number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/TrailingZerosFactorial.java)
+* [5. Program to find HCF of two numbers](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumbersHCF.java)
 
 ## List of Programs:
 ### Arrays 
