@@ -8,6 +8,7 @@ DSA Grind
 * [3. Program to find factorial of a number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumberFactorial.java)
 * [4. Program to find trailing zeros in factorial of a number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/TrailingZerosFactorial.java)
 * [5. Program to find HCF of two numbers](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumbersHCF.java)
+* [6. Program to find LCM of two numbers](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumbersLCM.java)
 
 ## List of Programs:
 ### Arrays 
