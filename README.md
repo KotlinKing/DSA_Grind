@@ -10,6 +10,7 @@ DSA Grind
 * [5. Program to find HCF of two numbers](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumbersHCF.java)
 * [6. Program to find LCM of two numbers](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumbersLCM.java)
 * [7. Program to find a prime number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/PrimeNumbers.java)
+* [8. Program to find divisors of a number in sorted order a prime number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumbersDivisors.java)
 
 ## List of Programs:
 ### Arrays 
