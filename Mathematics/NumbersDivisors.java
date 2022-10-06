@@ -1,4 +1,4 @@
-// Code: Program to find divisors of a numbers in sorted order
+// Code: Program to find divisors of a number in sorted order
 // Name: Abhishek Dharmik
 // Last Modified on: 06/10/2022
 
