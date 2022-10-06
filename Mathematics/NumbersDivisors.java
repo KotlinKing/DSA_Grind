@@ -8,6 +8,7 @@
 // A = 100 ; Divisors = 1, 2, 4, 5, 10, 20, 25, 50, 100
 
 public class NumbersDivisors {
+    
     public static void main(String[] args) {
         System.out.print("Divisors: " );
         printDivisors(100);
@@ -36,8 +37,5 @@ public class NumbersDivisors {
                 System.out.print(n/i + " ");
             }
         }
-    
     }
-
-
 }
