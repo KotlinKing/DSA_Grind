@@ -13,6 +13,9 @@ DSA Grind
 * [8. Program to find divisors of a number in sorted order a prime number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumbersDivisors.java)
 * [9. Program to calculate power of a number](https://github.com/KotlinKing/DSA_Grind/blob/main/Mathematics/NumberPower.java)
 
+## Bit Magic
+* [1. Program to show Bitwise And, Bitwise OR and Bitwise XOR operations](https://github.com/KotlinKing/DSA_Grind/blob/main/Bit_Magic/BitwiseAndOrXOR.java)
+
 ## List of Programs:
 ### Arrays 
 
