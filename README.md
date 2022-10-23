@@ -17,6 +17,9 @@ DSA Grind
 * [1. Program to show Bitwise And, Bitwise OR and Bitwise XOR operations](https://github.com/KotlinKing/DSA_Grind/blob/main/Bit_Magic/BitwiseAndOrXOR.java)
 * [2. Program to check K-th bit is set or not.](https://github.com/KotlinKing/DSA_Grind/blob/main/Bit_Magic/CheckKBitSet.java)
 
+## Recursion 
+* [1. Program to print numbers from n to 1](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/PrintNumbers.java)
+
 ## List of Programs:
 ### Arrays 
 
