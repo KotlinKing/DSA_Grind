@@ -18,7 +18,8 @@ DSA Grind
 * [2. Program to check K-th bit is set or not.](https://github.com/KotlinKing/DSA_Grind/blob/main/Bit_Magic/CheckKBitSet.java)
 
 ## Recursion 
-* [1. Program to print numbers from n to 1](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/PrintNumbers.java)
+* [1. Program to print numbers from n to 1](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/PrintNumbersFromN.java)
+* [2. Program to print numbers from 1 to n](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/PrintNumbersTillN.java)
 
 ## List of Programs:
 ### Arrays 
