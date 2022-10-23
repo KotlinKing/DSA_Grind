@@ -2,7 +2,7 @@
 // Name: Abhishek Dharmik 
 // Last Modified on: 23/10/2022
 
-public class PrintNumbers {
+public class PrintNumbersFromN {
     public static void main(String[] args) {
        int n = 4;
        printNto1(n); 
