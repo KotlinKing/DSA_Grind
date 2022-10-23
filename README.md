@@ -15,6 +15,7 @@ DSA Grind
 
 ## Bit Magic
 * [1. Program to show Bitwise And, Bitwise OR and Bitwise XOR operations](https://github.com/KotlinKing/DSA_Grind/blob/main/Bit_Magic/BitwiseAndOrXOR.java)
+* [2. Program to check K-th bit is set or not.](https://github.com/KotlinKing/DSA_Grind/blob/main/Bit_Magic/CheckKBitSet.java)
 
 ## List of Programs:
 ### Arrays 
