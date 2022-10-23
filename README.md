@@ -21,6 +21,7 @@ DSA Grind
 * [1. Program to print numbers from n to 1](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/PrintNumbersFromN.java)
 * [2. Program to print numbers from 1 to n](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/PrintNumbersTillN.java)
 * [3. Program to print factorial of a number](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/NumberFactorial.java)
+* [4. Program to calculate sum of n natural numbers using recursion](https://github.com/KotlinKing/DSA_Grind/blob/main/Recursion/NumbrsSum.java)
 
 ## List of Programs:
 ### Arrays 
