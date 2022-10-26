@@ -2,6 +2,12 @@
 // Name: Abhishek Dharmik 
 // Last Modified on: 26/10/2022
 
+//Example: Input: aagrtrgaa
+//         Output: String is Palindrome: true
+//         
+//         Input: asdfggfds
+//         Output: String is Palindrome: false
+
 public class Palindrome {
     public static void main(String[] args) {
         String str = "asdrrdsa";
